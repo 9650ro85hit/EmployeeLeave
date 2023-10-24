@@ -1,0 +1,30 @@
+body{
+    background-image: url("./images/homepageimg.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.loginform{
+    background-color: gray;
+    text-align: left;
+    
+    height: calc(100vh - 80px);
+    text-align: center;
+    padding-top: 60px;
+    width: 500px;
+}
+.loginform>form>div{
+    margin: 20px;
+    font-size: 20px;
+    font-style: bold;
+}
+
+.loginform>h3{
+    padding-top: 0px;
+}
+
+.loginform>.content>img{
+height: 80px;
+width: 80px;
+border-radius: 50%;
+}

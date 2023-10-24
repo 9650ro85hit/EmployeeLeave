@@ -1,0 +1,10 @@
+.navbar-nav{
+    float: right;
+}
+
+body{
+    background-image: url("./images/homepageimg.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
